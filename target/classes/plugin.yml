@@ -1,0 +1,7 @@
+name: DungeonRealms
+version: '1.0-SNAPSHOT'
+main: br.com.caio.dungeonplugin.DungeonRealms
+api-version: '1.20'
+commands:
+  kit:
+    description: Pegar um kit inicial

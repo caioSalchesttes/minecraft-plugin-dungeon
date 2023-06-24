@@ -1,0 +1,11 @@
+br\com\caio\dungeonplugin\listeners\PlaceBlock.class
+br\com\caio\dungeonplugin\utils\BlockManager.class
+br\com\caio\dungeonplugin\data\PlayerMemory.class
+br\com\caio\dungeonplugin\listeners\BreakBlock.class
+br\com\caio\dungeonplugin\listeners\snowBall.class
+br\com\caio\dungeonplugin\commands\Kit.class
+br\com\caio\dungeonplugin\listeners\BlockList.class
+br\com\caio\dungeonplugin\listeners\TntBreak.class
+br\com\caio\dungeonplugin\DungeonRealms.class
+br\com\caio\dungeonplugin\listeners\InitialInventory.class
+br\com\caio\dungeonplugin\listeners\killMonster.class
